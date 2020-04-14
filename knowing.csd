@@ -4,6 +4,7 @@
 ;; from the files knowing.orc and knowing.sco.
 ;;
 ;; Updated instrument 20 on 2004 Nov 28.
+;; Updated output format to OGG on 2020 Apr 13.
 ;;
 ;; Copyright 2001 by John D. Ramsdell.  All rights reserved.
 ;;
@@ -18,7 +19,7 @@
 ;; any purpose.  It is provided "as is" without express or implied
 ;; warranty.
 <CsOptions>
--A -d -o knowing.aiff
+--ogg -o knowing.oga
 </CsOptions>
 <CsInstruments>
 ;;; Csound Orchestra for Knowing, a.k.a. You Know I Know.
